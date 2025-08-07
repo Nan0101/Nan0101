@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 🪸
 
 <!--
 **Nan0101/Nan0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
