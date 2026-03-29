@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Nandini Soni
+# About Me
 
 *Building systems where data, models, and decisions actually meet.*
 
