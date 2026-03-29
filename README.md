@@ -1,95 +1,76 @@
 ## Hey there 🪸
 
+<div align="center">
+
 # Nandini Soni
 
-Building systems where data, models, and decisions actually meet.
+*Building systems where data, models, and decisions actually meet.*
 
-I’m a Machine Learning Engineer with a background in backend and distributed systems (Bank of America) and currently pursuing a Master’s in Artificial Intelligence at the University at Buffalo.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-soni-901bb580/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandini_soni1310@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nan0101)
 
-I don’t just build models — I build the pipelines, systems, and infrastructure around them so they can survive outside notebooks.
+</div>
 
 ---
 
-## What I Work On
-
-- Scalable data pipelines (batch + real-time)
-- End-to-end ML systems (data → training → evaluation → deployment)
-- NLP and LLM-powered systems (RAG, agent workflows, evaluation)
-- Distributed processing using PySpark and cloud infrastructure
+ML Engineer with 3 years of production systems experience (Bank of America) and an MS in AI at University at Buffalo.
+I build the pipelines, infrastructure, and deployment layers that let models survive outside notebooks.
 
 ---
 
 ## Selected Work
 
-### OrgLens — ESG & Sentiment Analytics Pipeline  
-Distributed PySpark pipeline for ESG risk modeling across structured and unstructured financial data  
-→ Integrated LLM-based query layer (Claude) for real-time cross-source analytics  
-→ Designed for large-scale data processing and aggregation  
-
-### Probabilistic Vital-Sign Forecasting  
-Diffusion-based time-series forecasting on ICU data (MIMIC-III)  
-→ Modeled uncertainty using U-Net-based architecture  
-→ Improved early-warning prediction over traditional sequence models  
-
-### GenreFusion — Multimodal Classification  
-Multimodal system combining text (BiLSTM) and image (ResNet) features  
-→ Attention-based fusion architecture  
-→ Outperformed unimodal baselines on TMDB dataset  
+| Project | What it does | Stack |
+|---|---|---|
+| [**OrgLens**](#) | Distributed ESG + sentiment analytics pipeline with LLM-driven natural-language query layer | PySpark · XGBoost · MCP · Claude API |
+| [**Vital-Sign Forecasting**](#) | Probabilistic ICU vital-sign forecasting using conditional diffusion — outperforms LSTM baselines on 3-hr early warning | PyTorch · Diffusion · U-Net · MIMIC-III |
+| [**GenreFusion**](#) | Multimodal movie genre classifier fusing BiLSTM text features with EfficientNet poster embeddings | PyTorch · BiLSTM · EfficientNet · TMDB |
 
 ---
 
-## How I Think About Systems
+## What I Work On
+```text
+Data Engineering    →   Scalable ETL, PySpark pipelines, batch + real-time processing
+ML Systems          →   End-to-end: ingestion → training → evaluation → deployment
+LLM / GenAI         →   RAG pipelines, agent workflows, MCP-based inference layers
+Production ML       →   The part that breaks when real data, scale, and latency show up
+```
 
-Most ML projects work until they have to deal with:
-- messy data  
-- scale  
-- latency  
-- real users  
+---
 
-That’s the part I enjoy solving.
+## Stack
+
+**ML & AI** · PyTorch · TensorFlow · Scikit-learn · XGBoost · HuggingFace · Spark MLlib · LangChain
+
+**Data** · PySpark · Databricks · Pandas · NumPy · MLflow
+
+**Infra** · Docker · Kubernetes · CI/CD · Linux (RHEL) · AWS · Azure
+
+**Languages** · Python · SQL · Java
 
 ---
 
 ## Currently
 
-- Working on making LLM systems more reliable (not just impressive demos)  
-- Exploring RAG pipelines, agent architectures, and evaluation frameworks  
-- Interested in systems where backend engineering meets AI decision-making  
+- Making LLM systems more reliable — evaluation frameworks, not just impressive demos
+- Exploring RAG architectures and production agent patterns
+- Looking for roles at the intersection of backend engineering, applied AI, and Linguistics
 
 ---
 
-## Tech Stack
+## A Detail Worth Mentioning
 
-**Languages:** Python, SQL  
-**ML:** PyTorch, TensorFlow, Scikit-learn, Transformers, NLP  
-**Data & Systems:** PySpark, Databricks, Pandas, NumPy, ETL Pipelines  
-**Infra:** Docker, CI/CD, Linux, AWS  
+I speak English, Hindi, Gujarati, and Japanese (intermediate).
+At some point I noticed that translating Japanese → Hindi made more intuitive sense than Japanese → English.
 
----
-
-## Ask Me About
-
-- Building ML systems that actually go to production  
-- Distributed data pipelines  
-- NLP and LLM workflows  
-- Why most AI projects break the moment they leave a notebook  
+That was the moment I stopped trusting translation pipelines blindly — and started getting genuinely curious about how language works, for both humans and models.
 
 ---
 
-## A Slightly Unexpected Detail
+## Open To
 
-I speak multiple languages and at some point realized translating Japanese → Hindi made more sense than English → Japanese.
-
-That was the moment I stopped trusting translation pipelines blindly and started getting curious about how language actually works — both for humans and models.
-
----
-
-## Let’s Connect
-
-Open to roles in:
-- Machine Learning Engineering  
-- Applied AI / LLM Systems  
-- Backend + ML hybrid roles  
+`Machine Learning Engineer` · `Applied AI Engineer` · `Backend + ML hybrid roles`
 
 📫 nandini_soni1310@yahoo.com  
 🔗 https://www.linkedin.com/in/nandini-soni-901bb580/
