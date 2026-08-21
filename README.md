@@ -15,7 +15,7 @@
 
 ---
 
-Software & AI Engineer. 3 years of experience at Bank of America on Quartz (Python) framework building production systems. Pivoting towards GenAI by tinkering at MS in AI at University at Buffalo.
+Software Engineer pivoting to GenAI/ML Systems. 3 years of experience at Bank of America on Quartz (Python) framework building production systems in FICC (Fixed Income, Currencies and Commodities) Technology. 
 
 
 ---
@@ -56,6 +56,7 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 ## Current Status
 
 - Graduated (MS AI, Buffalo, '26) and looking for my next team
+- Tinkering with LangChain, RAG, RAGAS, AWS and Computational Linguistics
 - Dipping my hands in German and Advanced Japanese
 
 ---
