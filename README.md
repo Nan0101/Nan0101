@@ -76,5 +76,8 @@ Love indulging in conversations about Languages, Etymology and Diachronic lingui
 📫 nandini_soni1310@yahoo.com  
 🔗 https://www.linkedin.com/in/nandini-soni-901bb580/
 
-> "Big things, in the end, are often just small things that someone thought to notice."
-> — **Markus Zusak**, *I Am the Messenger*
+<p align="center">
+  <i>"Big things, in the end, are often just small things that someone thought to notice."</i>
+  <br>
+  <strong>— Markus Zusak, I Am the Messenger</strong>
+</p>
