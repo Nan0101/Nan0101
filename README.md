@@ -55,7 +55,7 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 
 ## Current Status
 
-- Graduated (MS AI, Buffalo, '26) and looking for my next team
+- Graduated (MS AI, Buffalo, '26) and actively looking for my next team
 - Tinkering with LangChain, RAG, RAGAS, AWS and Computational Linguistics
 - Dipping my hands in German and Advanced Japanese
 
@@ -68,10 +68,11 @@ Love indulging in conversations about Languages, Etymology and Diachronic lingui
 
 ---
 
-## Open To
+## Open To Roles
 
 `Applied GenAI Engineer` · `AI / ML Engineer` · `Data Scientist ` · `Software Engineer`
 
+## Let's Chat!
 📫 nandini_soni1310@yahoo.com  
 🔗 https://www.linkedin.com/in/nandini-soni-901bb580/
 
