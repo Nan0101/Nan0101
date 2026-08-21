@@ -35,8 +35,8 @@ Software & AI Engineer. 3 years of experience at Bank of America on Quartz (Pyth
 Agentic systems  → LangGraph orchestration, conditional routing, partial-failure recovery
 Retrieval        → RAG pipelines, embeddings, vector search that returns the right chunk
 Evaluation       → Tracing, offline evals, regression suites — 75 tests, LLM mocked, $0 API spend
-Production       → FastAPI services, Docker, contracts enforced with Pydantic, not with hope
-Backend roots    → Distributed microservices, pub-sub pipelines, the SLA nobody notices until it slips
+Production       → FastAPI services, Docker, contracts enforced with Pydantic
+Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frameworks
 ```
 
 ---
@@ -52,14 +52,14 @@ Backend roots    → Distributed microservices, pub-sub pipelines, the SLA nobod
 
 ---
 
-## Currently
+## Current Status
 
 - Graduated (MS AI, Buffalo, '26) and looking for my next team
 - Dipping my hands in German and Advanced Japanese
 
 ---
 
-## A Detail Worth Mentioning
+## On a personal note
 
 I speak English, Hindi, Gujarati, and Japanese. Currently dipping my hands in German.
 Love indulging in conversations about Languages, Etymology and Diachronic linguistics.
