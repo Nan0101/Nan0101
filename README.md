@@ -42,13 +42,40 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 
 ---
 
-## Stack
+## 🛠️ Stack
 
-**AI / LLM** · LangGraph · LangChain · LangSmith · MCP · Google ADK · RAG · Qdrant · Transformers · HuggingFace · PyTorch · Pydantic · Claude · Cursor 
+### 🧠 AI / LLM
+![LangGraph](https://shields.io)
+![LangChain](https://shields.io)
+![LangSmith](https://shields.io)
+![MCP](https://shields.io)
+![Google ADK](https://shields.io)
+![RAG](https://shields.io)
+![Qdrant](https://shields.io)
+![Transformers](https://shields.io)
+![HuggingFace](https://shields.io)
+![PyTorch](https://shields.io)
+![Pydantic](https://shields.io)
+![Claude](https://shields.io)
+![Cursor](https://shields.io)
 
-**Systems** · Python · FastAPI · Docker · CI/CD · PySpark · Databricks · SQL / NoSQL · Streamlit · Git · Distributed Systems
+### ⚙️ Systems
+![Python](https://shields.io)
+![FastAPI](https://shields.io)
+![Docker](https://shields.io)
+![CI/CD](https://shields.io)
+![PySpark](https://shields.io)
+![Databricks](https://shields.io)
+![SQL / NoSQL](https://shields.io)
+![Streamlit](https://shields.io)
+![Git](https://shields.io)
+![Distributed Systems](https://shields.io)
 
-**Familiar** · Java (Spring Boot) · Kubernetes · AWS · RAGAS
+### ⭐ Familiar
+![Java (Spring Boot)](https://shields.io)
+![Kubernetes](https://shields.io)
+![AWS](https://shields.io)
+![RAGAS](https://shields.io)
 
 
 ---
@@ -57,16 +84,15 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 
 - Graduated (MS AI, Buffalo, '26) and actively looking for my next team
 - Tinkering with LangChain, RAG, RAGAS, AWS and Computational Linguistics
-- Dipping my hands in German and Advanced Japanese
+- Learning German, Advanced Japanese and indulging in etymology and diachronic linguistics.
 
 ---
-### 📊 My GitHub Stats
-<img src="https://vercel.app" alt="Top Langs" />
+### 🗣️ Languages
+![English](https://shields.io)
+![Japanese](https://shields.io)
+![German](https://shields.io)
 
-## On a personal note
 
-  English, Hindi, Gujarati, and Japanese.
-Love indulging in about Languages, Etymology and Diachronic linguistics.
 
 ---
 
