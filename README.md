@@ -92,8 +92,6 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 ![Japanese](https://shields.io)
 ![German](https://shields.io)
 
-
-
 ---
 
 ## Open To Roles
