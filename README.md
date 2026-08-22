@@ -60,11 +60,13 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 - Dipping my hands in German and Advanced Japanese
 
 ---
+### 📊 My GitHub Stats
+<img src="https://vercel.app" alt="Top Langs" />
 
 ## On a personal note
 
-I speak English, Hindi, Gujarati, and Japanese. Currently dipping my hands in German.
-Love indulging in conversations about Languages, Etymology and Diachronic linguistics.
+  English, Hindi, Gujarati, and Japanese.
+Love indulging in about Languages, Etymology and Diachronic linguistics.
 
 ---
 
