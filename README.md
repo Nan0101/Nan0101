@@ -84,14 +84,14 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 
 - Graduated (MS AI, Buffalo, '26) and actively looking for my next team
 - Tinkering with LangChain, RAG, RAGAS, AWS and Computational Linguistics
-- Learning German, Advanced Japanese and indulging in etymology and diachronic linguistics.
+- Indulging in Etymology and Diachronic linguistics.
 
 ---
 ### 🗣️ Languages
 ![English](https://img.shields.io/badge/English-Fluent-1E3A8A?style=flat)
 ![Hindi](https://img.shields.io/badge/Hindi-Native-D97706?style=flat)
 ![Gujarati](https://img.shields.io/badge/Gujarati-Native-B45309?style=flat)
-![Japanese](https://img.shields.io/badge/Japanese-Advanced-BC002D?style=flat)
+![Japanese](https://img.shields.io/badge/Japanese-Intermediate-BC002D?style=flat)
 ![German](https://img.shields.io/badge/German-Learning-4B5563?style=flat)
 
 ---
