@@ -20,7 +20,7 @@ Software Engineer pivoting to GenAI/ML Systems. 3 years of experience at Bank of
 
 ---
 
-## Latest Projects
+## 🕹️Latest Projects
 
 | Project | What it does | Stack |
 |---|---|---|
