@@ -45,37 +45,37 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 ## 🛠️ Stack
 
 ### 🧠 AI / LLM
-![LangGraph](https://shields.io)
-![LangChain](https://shields.io)
-![LangSmith](https://shields.io)
-![MCP](https://shields.io)
-![Google ADK](https://shields.io)
-![RAG](https://shields.io)
-![Qdrant](https://shields.io)
-![Transformers](https://shields.io)
-![HuggingFace](https://shields.io)
-![PyTorch](https://shields.io)
-![Pydantic](https://shields.io)
-![Claude](https://shields.io)
-![Cursor](https://shields.io)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5A67D8?style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 ### ⚙️ Systems
-![Python](https://shields.io)
-![FastAPI](https://shields.io)
-![Docker](https://shields.io)
-![CI/CD](https://shields.io)
-![PySpark](https://shields.io)
-![Databricks](https://shields.io)
-![SQL / NoSQL](https://shields.io)
-![Streamlit](https://shields.io)
-![Git](https://shields.io)
-![Distributed Systems](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![SQL / NoSQL](https://img.shields.io/badge/SQL%20%2F%20NoSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-6E7681?style=flat)
 
 ### ⭐ Familiar
-![Java (Spring Boot)](https://shields.io)
-![Kubernetes](https://shields.io)
-![AWS](https://shields.io)
-![RAGAS](https://shields.io)
+![Java (Spring Boot)](https://img.shields.io/badge/Java%20%28Spring%20Boot%29-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-6E7681?style=flat)
 
 
 ---
@@ -88,9 +88,11 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 
 ---
 ### 🗣️ Languages
-![English](https://shields.io)
-![Japanese](https://shields.io)
-![German](https://shields.io)
+![English](https://img.shields.io/badge/English-Fluent-1E3A8A?style=flat)
+![Hindi](https://img.shields.io/badge/Hindi-Native-D97706?style=flat)
+![Gujarati](https://img.shields.io/badge/Gujarati-Native-B45309?style=flat)
+![Japanese](https://img.shields.io/badge/Japanese-Advanced-BC002D?style=flat)
+![German](https://img.shields.io/badge/German-Learning-4B5563?style=flat)
 
 ---
 
