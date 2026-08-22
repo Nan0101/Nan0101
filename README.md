@@ -1,4 +1,4 @@
-## Howdy! 🪸
+## Howdy! 🪸🙋🏽‍♀️
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Software Engineer pivoting to GenAI/ML Systems. 3 years of experience at Bank of
 
 ---
 
-## Selected Work
+## Latest Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -30,7 +30,7 @@ Software Engineer pivoting to GenAI/ML Systems. 3 years of experience at Bank of
 | [**GenreFusion**](https://github.com/Nan0101/Multimodal-Movie-Classification) | Multimodal genre classifier fusing BiLSTM text features with EfficientNet poster embeddings. | PyTorch · BiLSTM · EfficientNet · TMDB |
 ---
 
-## What I Work On
+## 💻 What I Work On
 
 ```text
 Agentic systems  → LangGraph orchestration, conditional routing, partial-failure recovery
@@ -44,7 +44,7 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 
 ## 🛠️ Stack
 
-### 🧠 AI / LLM
+### AI / LLM
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -59,7 +59,7 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
-### ⚙️ Systems
+### Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -71,7 +71,7 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-6E7681?style=flat)
 
-### ⭐ Familiar
+### Familiar
 ![Java (Spring Boot)](https://img.shields.io/badge/Java%20%28Spring%20Boot%29-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -80,14 +80,14 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 
 ---
 
-## Current Status
+## 📌 Current Status
 
 - Graduated (MS AI, Buffalo, '26) and actively looking for my next team
 - Tinkering with LangChain, RAG, RAGAS, AWS and Computational Linguistics
 - Indulging in Etymology and Diachronic linguistics.
 
 ---
-### 🗣️ Languages
+## 🗣️ Languages
 ![English](https://img.shields.io/badge/English-Fluent-1E3A8A?style=flat)
 ![Hindi](https://img.shields.io/badge/Hindi-Native-D97706?style=flat)
 ![Gujarati](https://img.shields.io/badge/Gujarati-Native-B45309?style=flat)
@@ -96,11 +96,11 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 
 ---
 
-## Open To Roles
+## 💼 Open To Roles
 
 `Applied GenAI Engineer` · `AI / ML Engineer` · `Data Scientist ` · `Software Engineer`
 
-## Let's Chat!
+## 🕊️ Let's Chat!
 📫 nandini_soni1310@yahoo.com  
 🔗 https://www.linkedin.com/in/nandini-soni-901bb580/
 
