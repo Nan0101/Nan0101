@@ -16,6 +16,13 @@ Building systems at the intersection of Product and Applied AI
 
 Software Engineer pivoting to GenAI/ML Systems. 3 years of experience at Bank of America on Quartz (Python) framework building production systems in FICC (Fixed Income, Currencies and Commodities) Technology. 
 
+---
+
+## 📌 Current Status
+
+- Graduated (MS AI, Buffalo, '26) and actively looking for opportunities on a STEM OPT
+- Exploring LangChain, RAG, RAGAS, AWS and Computational Linguistics
+- Indulging in Etymology and Diachronic linguistics.
 
 ---
 
@@ -75,15 +82,6 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-6E7681?style=flat)
-
-
----
-
-## 📌 Current Status
-
-- Graduated (MS AI, Buffalo, '26) and actively looking for my next team
-- Tinkering with LangChain, RAG, RAGAS, AWS and Computational Linguistics
-- Indulging in Etymology and Diachronic linguistics.
 
 ---
 ## 🗣️ Languages
