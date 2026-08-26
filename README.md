@@ -26,6 +26,11 @@ Software Engineer pivoting to GenAI/ML Systems. 3 years of experience at Bank of
 
 ---
 
+## 💼 Open To Roles
+
+`Applied GenAI Engineer` · `AI / ML Engineer` · `Data Scientist ` · `Software Engineer`
+---
+
 ## 🕹️Latest Projects
 
 | Project | What it does | Stack |
@@ -92,14 +97,6 @@ Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frame
 ![German](https://img.shields.io/badge/German-Learning-4B5563?style=flat)
 
 ---
-
-## 💼 Open To Roles
-
-`Applied GenAI Engineer` · `AI / ML Engineer` · `Data Scientist ` · `Software Engineer`
-
-## 🕊️ Let's Chat!
-📫 nandini_soni1310@yahoo.com  
-🔗 https://www.linkedin.com/in/nandini-hemang-soni/
 
 <p align="center">
   <i>"Big things, in the end, are often just small things that someone thought to notice."</i>
