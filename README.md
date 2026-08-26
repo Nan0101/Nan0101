@@ -3,7 +3,7 @@
 <div align="center">
 
 # Nandini Soni
-Building systems at the intersection of Product and Applied AI*
+Building systems at the intersection of Product and Applied AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-soni-901bb580/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandini_soni1310@yahoo.com)
