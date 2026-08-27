@@ -39,17 +39,6 @@ Software Engineer pivoting to GenAI/ML Systems. 3 years of experience at Bank of
 | [**OrgLens**](https://github.com/Nan0101/OrgLens) | MCP server exposing 10 LLM-callable tools over 3 trained pipelines and 95K+ records, so a plain-English question returns a model-backed answer instead of a confident hallucination. Caught a target-leakage defect before it shipped. | MCP · FastMCP · PySpark · Databricks · scikit-learn |
 | [**Vital-Sign Forecasting**](https://github.com/Nan0101/probabilistic_vital_sign_forecasting_using_diffusion_models) | Probabilistic ICU vital-sign forecasting with conditional diffusion; beats LSTM baselines on 3-hour early warning. | PyTorch · Diffusion · U-Net · MIMIC-III |
 | [**GenreFusion**](https://github.com/Nan0101/Multimodal-Movie-Classification) | Multimodal genre classifier fusing BiLSTM text features with EfficientNet poster embeddings. | PyTorch · BiLSTM · EfficientNet · TMDB |
----
-
-## 💻 What I Work On
-
-```text
-Agentic systems  → LangGraph orchestration, conditional routing, partial-failure recovery
-Retrieval        → RAG pipelines, embeddings, vector search that returns the right chunk
-Evaluation       → Tracing, offline evals, regression suites — 75 tests, LLM mocked, $0 API spend
-Production       → FastAPI services, Docker, contracts enforced with Pydantic
-Backend roots    → Distributed microservices, pub-sub pipelines, FinTech frameworks
-```
 
 ---
 
