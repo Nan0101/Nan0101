@@ -20,7 +20,7 @@ Software Engineer pivoting to GenAI/ML Systems. 3 years of experience at Bank of
 
 ## 📌 Current Status
 
-- Graduated (MS AI, Buffalo, '26) and actively looking for opportunities on a STEM OPT
+- Graduated (MS AI, SUNY Buffalo, '26) and actively looking for opportunities on a STEM OPT
 - Exploring LangChain, RAG, RAGAS, AWS and Computational Linguistics
 - Indulging in Etymology and Diachronic linguistics.
 
